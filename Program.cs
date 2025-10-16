@@ -1,5 +1,7 @@
 ﻿using System;
-//teständring feature-linq branch
+
+//Teständring i feature-menubranch 
+
 namespace JobApplicationTracker
 {
     class Program
