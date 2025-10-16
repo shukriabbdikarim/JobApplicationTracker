@@ -1,4 +1,5 @@
 ﻿using System;
+
 //Teständring i feature-menubranch 
 
 namespace JobApplicationTracker
