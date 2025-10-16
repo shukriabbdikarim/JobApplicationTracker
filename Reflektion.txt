@@ -1,0 +1,4 @@
+Hur hjälpte LINQ dig att skriva renare kod?
+LINQ gjorde det enklare att jobba med listor. Jag kunde söka, sortera och filtrera data med kortare kod istället för att skriva flera loopar.Det sparade tid och blev lättare att läsa.
+Vilken del av projektet var mest utmanande, och hur löste du det?
+Det svåraste var att förstå hur LINQ fungerar i början. Jag löste detgenom att testa mig fram och kolla på exempel tills jag förstod hur det skulle skrivas.
